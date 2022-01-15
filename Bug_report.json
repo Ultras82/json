@@ -16,3 +16,4 @@
   "actual_result" : "typos_in_the_text",
   "expected_result" : "There_shouldn't_be_any_typos",
   "attached_files" : "typos.jpg"
+}
