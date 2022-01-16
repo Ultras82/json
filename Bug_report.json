@@ -1,6 +1,6 @@
 {
   "id" : "json_1",
-  "projekt" : "15/01/21/Mikhail",
+  "project" : "15/01/21/Mikhail",
   "category" : "github_json",
   "reporter" : "Mikhail",
   "assigned_to" : "Mikhail",
@@ -9,7 +9,7 @@
   "status" : "accepted",
   "resolution" : "open",
   "platform" : "Firefox_Mozilla_95.0.2",
-  "os" : "windows_10",
+  "environment" : "windows_10",
   "summary" : "typos_in_homework_text_in_txt_document",
   "description" : "typos_in_homework_text_in_txt_document",
   "steps_to_reproduce" : "open_text_document_homework",
